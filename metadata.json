@@ -1,0 +1,5 @@
+{
+  "name": "PDF 页面提取工具",
+  "description": "在浏览器中本地切割并提取 PDF 页面，安全快速。",
+  "requestFramePermissions": []
+}
